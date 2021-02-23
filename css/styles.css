@@ -1,0 +1,63 @@
+body{
+    background: black;
+}
+#header{
+    font-size: 20px;
+}
+#header img {
+    width: 200px;
+    height: 100px;  
+}
+.titulo{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#diseños{
+    background: rgb(0, 0, 0);
+}
+#diseños img{
+   max-width: 80vh;
+    max-height: 80vh;
+    margin-bottom: 25px;
+    object-fit: cover;
+    border-radius: 20px;
+    border: 2px solid white;
+}
+#publicidad{
+    background: black;
+}
+#publicidad img{
+    max-width: 60vh;
+    max-height: 60vh;
+    margin-bottom: 25px;
+    object-fit: cover;
+    border-radius: 20px;
+    border: 2px solid white;
+}
+#logos{
+    background:black;
+}
+#logos img{
+    max-width: 50vh;
+    max-height: 50vh;
+    margin-bottom: 20px;
+    object-fit: cover;
+    
+}
+#footer{
+    background: #099799;
+    text-align: center;
+    padding: 10px;
+    
+}
+#footer a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#footer a:hover{
+    text-decoration: underline;
+}
+
